@@ -1,0 +1,166 @@
+{
+  "info": {
+    "name": "部族龙形武士13-采石顶下方",
+    "type": "collect",
+    "author": "Economy",
+    "version": "1.1",
+    "description": "共10个",
+    "bgiVersion": "0.42.3"
+  },
+  "positions": [
+    {
+      "id": 1,
+      "action": "",
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 8286.013671875,
+      "y": -2521.28515625,
+      "action_params": ""
+    },
+    {
+      "id": 2,
+      "x": 8303.6220703125,
+      "y": -2528.0009765625,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 3,
+      "x": 8406.94140625,
+      "y": -2573.3896484375,
+      "type": "path",
+      "move_mode": "fly",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 4,
+      "x": 8423.5458984375,
+      "y": -2555.9931640625,
+      "type": "path",
+      "move_mode": "run",
+      "action": "fight",
+      "action_params": ""
+    },
+    {
+      "id": 5,
+      "x": 8442.80859375,
+      "y": -2530.0390625,
+      "type": "path",
+      "move_mode": "run",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 6,
+      "x": 8509.3388671875,
+      "y": -2501.822265625,
+      "type": "path",
+      "move_mode": "run",
+      "action": "fight",
+      "action_params": ""
+    },
+    {
+      "id": 7,
+      "x": 8524.0537109375,
+      "y": -2482.724609375,
+      "type": "path",
+      "move_mode": "run",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 8,
+      "x": 8532.953125,
+      "y": -2484.255859375,
+      "type": "path",
+      "move_mode": "climb",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 9,
+      "x": 8530.888671875,
+      "y": -2482.8408203125,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 10,
+      "x": 8534.390625,
+      "y": -2467.39453125,
+      "type": "path",
+      "move_mode": "run",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 11,
+      "x": 8536.6162109375,
+      "y": -2460.2197265625,
+      "type": "path",
+      "move_mode": "climb",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 12,
+      "x": 8538.43359375,
+      "y": -2452.66015625,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 13,
+      "x": 8541.91015625,
+      "y": -2450.91796875,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 14,
+      "x": 8538.3974609375,
+      "y": -2443.6533203125,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "fight",
+      "action_params": ""
+    },
+    {
+      "id": 15,
+      "x": 8526.7119140625,
+      "y": -2436.615234375,
+      "type": "path",
+      "move_mode": "run",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 16,
+      "x": 8487.154296875,
+      "y": -2427.62890625,
+      "type": "path",
+      "move_mode": "fly",
+      "action": "stop_flying",
+      "action_params": "100",
+      "locked": false
+    },
+    {
+      "id": 17,
+      "x": 8487.154296875,
+      "y": -2427.62890625,
+      "type": "path",
+      "move_mode": "fly",
+      "action": "fight",
+      "action_params": ""
+    }
+  ]
+}

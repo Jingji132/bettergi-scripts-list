@@ -1,0 +1,86 @@
+{
+  "info": {
+    "name": "部族龙形武士9-纳塔周本附近",
+    "type": "collect",
+    "author": "Economy",
+    "version": "1.1",
+    "description": "共7个",
+    "bgiVersion": "0.42.3"
+  },
+  "positions": [
+    {
+      "id": 1,
+      "action": "",
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 9481.6103515625,
+      "y": -1931.54638671875,
+      "action_params": "",
+      "locked": false
+    },
+    {
+      "id": 2,
+      "x": 9508.2578125,
+      "y": -1899.48193359375,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 3,
+      "x": 9519.478515625,
+      "y": -1888.99462890625,
+      "type": "path",
+      "move_mode": "run",
+      "action": "fight",
+      "action_params": ""
+    },
+    {
+      "id": 4,
+      "x": 9529.16015625,
+      "y": -1889.12548828125,
+      "type": "path",
+      "move_mode": "run",
+      "action": "",
+      "action_params": "",
+      "locked": false
+    },
+    {
+      "id": 5,
+      "x": 9534.8310546875,
+      "y": -1912.67236328125,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "",
+      "action_params": ""
+    },
+    {
+      "id": 6,
+      "x": 9544.244140625,
+      "y": -1938.328125,
+      "type": "path",
+      "move_mode": "run",
+      "action": "fight",
+      "action_params": ""
+    },
+    {
+      "id": 7,
+      "action": "",
+      "move_mode": "walk",
+      "type": "teleport",
+      "x": 9481.6103515625,
+      "y": -1931.54638671875,
+      "action_params": ""
+    },
+    {
+      "id": 8,
+      "x": 9460.5537109375,
+      "y": -1904.05029296875,
+      "type": "path",
+      "move_mode": "walk",
+      "action": "fight",
+      "action_params": ""
+    }
+  ]
+}
